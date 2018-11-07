@@ -1,10 +1,14 @@
 # Mastering Qt 5 - Second Edition (August 2018)
 
-<a href="https://www.packtpub.com/web-development/mastering-qt-5-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995399"><img src="https://www.packtpub.com/sites/default/files/B10185_cover_New.png" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/web-development/mastering-qt-5-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995399"><img src="https://www.packtpub.com/sites/default/files/B10185_cover_New.png" alt="" width="300" height="370" align="right"></a>
 
 This is the code repository for [Mastering Qt 5 - Second Edition](https://www.packtpub.com/web-development/mastering-qt-5-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995399), published by Packt.
 
 **Create stunning cross-platform applications using C++ with Qt Widgets and QML with Qt Quick**
+
+## Book editions
+* [Mastering Qt 5 - First Edition](https://github.com/PacktPublishing/Mastering-Qt-5)
+* [Mastering Qt 5 - Second Edition](https://github.com/PacktPublishing/Mastering-Qt-5-Second-Editon)
 
 ## What is this book about?
 Qt 5.11 is an app development framework that provides a great user experience and develops full capability applications with Qt Widgets, QML, and even Qt 3D. Whether you're building GUI prototypes or fully-fledged cross-platform GUI applications with a native look and feel, Mastering Qt 5 is your fastest, easiest, and most powerful solution. This book addresses various challenges and teaches you to successfully develop cross-platform applications using the Qt framework, with the help of well-organized projects.
