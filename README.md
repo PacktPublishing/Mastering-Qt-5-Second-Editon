@@ -30,15 +30,15 @@ alt="https://www.packtpub.com/" border="5" /></a>
 Official Packt errata page is https://www.packtpub.com/books/content/support/33683
 
 ### Chapter 2
- * Page 42. ULARGE_INTEGER is a union, not a structure.
- * Page 49. You should include "#include <stdio.h>" if you have some compilation errors with std:sscanf() in the "SysInfoLinuxImpl.cpp" file.
+ * Page 42. `ULARGE_INTEGER` is a union, not a structure.
+ * Page 49. You should include "#include <stdio.h>" if you have some compilation errors with `std:sscanf()` in the "SysInfoLinuxImpl.cpp" file.
  * Page 64. The sentence should be: "mPointPositionX is a long long int variable (qint64)".
  
  ### Chapter 3
  * Page 83. The unix platform scope could be generated for a 'library' Qt project, even if you create the project from a Windows desktop.
- * Page 87. The GALLERYCORESHARED_EXPORT macro must be added right AFTER the 'class' keyword (not before).
- * Page 93. It's "QSqlQuery::bindValue()", not "QSqlQuery::bind()".
- * Page 112. The endRemoveRows() function, which simply triggers the rowsRemoved() signal.
+ * Page 87. The `GALLERYCORESHARED_EXPORT` macro must be added right *AFTER* the 'class' keyword (not before).
+ * Page 93. It's `QSqlQuery::bindValue()`, not `QSqlQuery::bind()`.
+ * Page 112. The `endRemoveRows()` function, which simply triggers the `rowsRemoved()` signal.
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
