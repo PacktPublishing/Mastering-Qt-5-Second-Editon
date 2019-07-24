@@ -1,8 +1,8 @@
 # Mastering Qt 5 - Second Edition (August 2018)
 
-<a href="https://www.packtpub.com/web-development/mastering-qt-5-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995399"><img src="https://www.packtpub.com/sites/default/files/B10185_cover_New.png" alt="" width="300" height="370" align="right"></a>
+<a href="https://www.packtpub.com/web-development/mastering-qt-5-second-edition"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10185_cover_new.png" alt="" width="300" height="370" align="right"></a>
 
-This is the code repository for [Mastering Qt 5 - Second Edition](https://www.packtpub.com/web-development/mastering-qt-5-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995399), published by Packt.
+This is the code repository for [Mastering Qt 5 - Second Edition](https://www.packtpub.com/web-development/mastering-qt-5-second-edition), published by Packt.
 
 **Create stunning cross-platform applications using C++ with Qt Widgets and QML with Qt Quick**
 
