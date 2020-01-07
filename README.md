@@ -39,6 +39,9 @@ Official Packt errata page is https://www.packtpub.com/books/content/support/336
  * Page 87. The `GALLERYCORESHARED_EXPORT` macro must be added right *AFTER* the 'class' keyword (not before).
  * Page 93. It's `QSqlQuery::bindValue()`, not `QSqlQuery::bind()`.
  * Page 112. The `endRemoveRows()` function, which simply triggers the `rowsRemoved()` signal.
+ 
+  ### Chapter 4
+  * Fix Album model index (trigger ASSERT on Windows DEBUG platform). Check [PR #1](https://github.com/PacktPublishing/Mastering-Qt-5-Second-Editon/pull/1) (thanks @ziembla)
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
