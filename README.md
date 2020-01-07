@@ -62,7 +62,7 @@ void MemoryWidget::updateSeries()
 ```
 
 **Following is what you need for this book:**
-Mastering Qt 5 is for developers and programmers who want to build GUI-based applications. C++ knowledge is necessary, and knowing QT basics will help you get the most out of this book.
+Mastering Qt 5 is for developers and programmers who want to build GUI-based applications. C++ knowledge is necessary, and knowing Qt basics will help you get the most out of this book.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
@@ -77,7 +77,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Other books you may enjoy>
 * Qt 5 Projects [[Packt]](https://www.packtpub.com/application-development/qt-5-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788293884) [[Amazon]](https://www.amazon.com/dp/1788293886)
 
-* Learn QT 5 [[Packt]](https://www.packtpub.com/web-development/learn-qt-5?utm_source=github&utm_medium=repository&utm_campaign=9781788478854) [[Amazon]](https://www.amazon.com/dp/1788478851)
+* Learn Qt 5 [[Packt]](https://www.packtpub.com/web-development/learn-qt-5?utm_source=github&utm_medium=repository&utm_campaign=9781788478854) [[Amazon]](https://www.amazon.com/dp/1788478851)
 
 ## Get to Know the Authors
 **Guillaume Lazar** is a software engineer living in France near Paris. He has worked in different companies, from startups to multinationals, in the last 10 years. He took the opportunity to observe and learn many team organizations and technologies.
