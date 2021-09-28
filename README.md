@@ -1,6 +1,6 @@
 # Mastering Qt 5 - Second Edition (August 2018)
 
-<a href="https://www.packtpub.com/web-development/mastering-qt-5-second-edition"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10185_cover_new.png" alt="" width="300" height="370" align="right"></a>
+<a href="https://www.packtpub.com/web-development/mastering-qt-5-second-edition"><img src="https://github.com/PacktPublishing/Mastering-Qt-5-Second-Editon/blob/master/media/mastering-qt5-2nd_cover.jpg?raw=true" alt="" width="300" height="370" align="right"></a>
 
 This is the code repository for [Mastering Qt 5 - Second Edition](https://www.packtpub.com/web-development/mastering-qt-5-second-edition), published by Packt.
 
