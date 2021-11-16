@@ -43,6 +43,9 @@ Official Packt errata page is https://www.packtpub.com/books/content/support/336
   ### Chapter 4
   * Fix Album model index (trigger ASSERT on Windows DEBUG platform). Check [PR #1](https://github.com/PacktPublishing/Mastering-Qt-5-Second-Editon/pull/1) (thanks @ziembla)
 
+  ### Chapter 5
+  * Qt for Android >= 5.14 now use Android clang multi ABI that broke the APK generation. Check [First edition Issue #13](https://github.com/PacktPublishing/Mastering-Qt-5/issues/13)
+
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
@@ -90,7 +93,7 @@ Although he defines himself as a Qt framework lover, he likes to mix different t
 
 
 ## Other books by the authors
-* [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5?utm_source=github&utm_medium=repository&utm_campaign=9781786467126)
+* [Mastering Qt 5 - First Edition](https://www.packtpub.com/application-development/mastering-qt-5?utm_source=github&utm_medium=repository&utm_campaign=9781786467126)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
